@@ -279,27 +279,24 @@ This represents a significant confidentiality risk.
 
 ### Evidence and Screenshots
 
-**Screenshot 07: PDF Metadata Analysis**
-
-![Metadata Analysis](evidence/07-metadata-analysis.png)
-
-*Description: Metadata inspection using ExifTool.*
-
 **Screenshot 08: Directory Enumeration**
 
-![Gobuster Enumeration](evidence/08-gobuster-enumeration.png)
+<img width="949" height="434" alt="directory" src="https://github.com/user-attachments/assets/32cd8f04-eb11-465b-a5e0-ed95e27a8f12" />
+
 
 *Description: Directory and file enumeration using Gobuster.*
 
 **Screenshot 09: Database Backup Discovery**
 
-![Backup Discovery](evidence/09-backup-discovery.png)
+<img width="935" height="419" alt="sql backup" src="https://github.com/user-attachments/assets/afe440b0-a152-4723-bc61-47d33c5727e3" />
+
 
 *Description: Identification of the legacy database backup file.*
 
 **Screenshot 10: Database Structure Analysis**
+<img width="934" height="437" alt="sql injection" src="https://github.com/user-attachments/assets/ab4aeb1b-dcf5-4351-92f8-89c2b25a875e" />
 
-![Database Analysis](evidence/10-database-analysis.png)
+
 
 *Description: Redacted database structure showing the presence of sensitive tables.*
 
@@ -335,7 +332,8 @@ However, this does not establish that the entire Staff Portal is secure.
 
 **Screenshot 11: Staff Portal Authentication Testing**
 
-![Staff Portal Testing](evidence/11-staff-portal-testing.png)
+<img width="936" height="434" alt="staff portal" src="https://github.com/user-attachments/assets/2e4825b2-7b75-4d98-a05c-0424efaa2ecb" />
+
 
 *Description: Authentication testing showing the observed response to the selected test inputs.*
 
@@ -433,3 +431,5 @@ Do not publish real patient information, passwords, National IDs, employee salar
 **Project Status:** Training Assessment Documentation
 
 **Report Date:** 24 November 2026
+GITHUB: https://github.com/samwelikinanda27-eng/Mediroza-General-Hospital-Penetration-Testing-Report/edit/main/README.md
+LINKEDIN: https://www.linkedin.com/in/samweli-kinanda-06510136a/recent-activity/all/
