@@ -294,7 +294,8 @@ This represents a significant confidentiality risk.
 *Description: Identification of the legacy database backup file.*
 
 **Screenshot 10: Database Structure Analysis**
-<img width="934" height="437" alt="sql injection" src="https://github.com/user-attachments/assets/ab4aeb1b-dcf5-4351-92f8-89c2b25a875e" />
+<img width="929" height="429" alt="database backup" src="https://github.com/user-attachments/assets/7216b383-3a84-47f3-a684-0032897765b7" />
+
 
 
 
