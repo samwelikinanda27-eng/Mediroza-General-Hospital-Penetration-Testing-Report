@@ -432,5 +432,6 @@ Do not publish real patient information, passwords, National IDs, employee salar
 **Project Status:** Training Assessment Documentation
 
 **Report Date:** 24 November 2026
-GITHUB: https://github.com/samwelikinanda27-eng/Mediroza-General-Hospital-Penetration-Testing-Report/edit/main/README.md
+GITHUB: https://github.com/samwelikinanda27-eng/Mediroza-General-Hospital-Penetration-Testing-Report/tree/main
+
 LINKEDIN: https://www.linkedin.com/in/samweli-kinanda-06510136a/recent-activity/all/
